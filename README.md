@@ -1,6 +1,5 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Maksym Aharkov
+
 
 ### 🎙️ Customer Support Engineer | Sound Production Engineer | Python Developer
 
