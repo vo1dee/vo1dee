@@ -41,7 +41,7 @@ Welcome! I'm a developer passionate about building robust financial platforms an
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vo1dee)](https://github.com/vo1dee/github-readme-stats)
+[![vo1dee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vo1dee)](https://github.com/vo1dee/github-readme-stats-fast)
 
 
 ## 🚀 Featured Projects
