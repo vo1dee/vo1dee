@@ -41,7 +41,9 @@ Welcome! I'm a developer passionate about building robust financial platforms an
 
 ## 📈 GitHub Stats
 
-[![vo1dee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vo1dee)](https://github.com/vo1dee/github-readme-stats-fast)
+[![vo1dee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vo1dee&show_icons=true&theme=tokyonight)](https://github.com/vo1dee/github-readme-stats-fast)
+
+
 
 
 ## 🚀 Featured Projects
