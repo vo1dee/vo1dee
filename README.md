@@ -38,7 +38,7 @@ I build tools that pair clean UI/UX with real automation — from budget and inv
 ---
 
 ## 📈 GitHub Stats
-[![vo1dee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vo1dee&show_icons=true&theme=tokyonight)](https://github.com/vo1dee/github-readme-stats-fast)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=vo1dee&theme=dracula&custom_title=Maksym+Aharkov)
 
 ## 🚀 Featured Projects
 - **monofinance** ⭐ — personal finance platform with investment performance tracking, budget breakdowns, savings analytics, and monthly snapshots.
